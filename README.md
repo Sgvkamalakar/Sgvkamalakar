@@ -4,8 +4,8 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalakar-satapathi-9a6556213/)
-[![Twitter](https://img.shields.io/twitter/follow/sgvkamalakar?style=social)](https://twitter.com/sgvkamalakar)
-[![Instagram](https://img.shields.io/badge/@its._.me._.kamalakar-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/its._.me._.kamalakar)
+[![Twitter](https://img.shields.io/twitter/follow/sgvkamalakar?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/sgvkamalakar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/its._.me._.kamalakar)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -14,6 +14,7 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white)
