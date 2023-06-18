@@ -39,11 +39,12 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
   [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://sites.google.com/view/itact2000/it-act-2000)
   
 ## 🎯 Hobbies:
-- Coding
-- Playing Chess
-- Article writing
-- Reading Sci-Fi Stories
+- Coding 🖥️
+- Playing Chess ♟️
+- Article Writing 📝
+- Reading Sci-Fi Stories 📚
 
+  
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
