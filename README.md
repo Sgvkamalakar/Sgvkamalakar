@@ -32,7 +32,7 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 - North Sentinel Island: Exploring the Mystery of the World's Most Isolated and Uncontacted Tribe.  
   [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://www.linkedin.com/pulse/indias-unexplored-area-north-sentinl-island-satapathi/)
 
-- Understanding the Methods and Their Applications" explores the concept of density estimation, the limitations of parametric methods, and the advantages of non-parametric techniques.  
+- Understanding the Methods and Their Applications explores the concept of density estimation, the limitations of parametric methods, and the advantages of non-parametric techniques.  
   [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://www.geeksforgeeks.org/non-parametric-density-estimation-methods-in-machine-learning/)
 
 - An Overview of Cyber Law in India, provides a brief introduction to the Information Technology Act 2000, which is the primary legislation governing cyber laws in India.  
