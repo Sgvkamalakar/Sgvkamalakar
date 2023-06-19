@@ -5,7 +5,7 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalakar-satapathi-9a6556213/)
 [![Twitter](https://img.shields.io/twitter/follow/sgvkamalakar?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/sgvkamalakar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/its._.me._.kamalakar)
+[![Instagram](https://img.shields.io/badge/its._.me._.kamalakar-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/its._.me._.kamalakar)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,7 +44,6 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 - Article Writing 📝
 - Reading Sci-Fi Stories 📚
 
-  
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
