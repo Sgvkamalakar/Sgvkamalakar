@@ -22,8 +22,6 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📧 Contact:
-[![Email](https://img.shields.io/badge/Email-Me%20Now-red?style=for-the-badge)](mailto:sgvkamalakar@gmail.com)
 
 ## 🏆 Certifications:
  I will update soon
