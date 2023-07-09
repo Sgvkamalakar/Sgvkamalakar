@@ -23,9 +23,6 @@ I'm currently pursuing B.Tech in Computer Science from Andhra University College
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## 🏆 Certifications:
- I will update soon
-
 ## 📚 Articles:
 - North Sentinel Island: Exploring the Mystery of the World's Most Isolated and Uncontacted Tribe.  
   [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://www.linkedin.com/pulse/indias-unexplored-area-north-sentinl-island-satapathi/)
