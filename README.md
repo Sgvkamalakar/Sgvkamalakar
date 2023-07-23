@@ -1,5 +1,5 @@
 # Hi, I’m Kamalakar! 👋
-I'm currently pursuing B.Tech in Computer Science from Andhra University College of Engineering, Visakhapatnam.
+I'm a B.Tech final-year student in Computer Science at Andhra University College of Engineering, Visakhapatnam.
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
