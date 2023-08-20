@@ -22,17 +22,6 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-## 📚 Articles:
-- North Sentinel Island: Exploring the Mystery of the World's Most Isolated and Uncontacted Tribe.  
-  [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://www.linkedin.com/pulse/indias-unexplored-area-north-sentinl-island-satapathi/)
-
-- Understanding the Methods and Their Applications explores the concept of density estimation, the limitations of parametric methods, and the advantages of non-parametric techniques.  
-  [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://www.geeksforgeeks.org/non-parametric-density-estimation-methods-in-machine-learning/)
-
-- An Overview of Cyber Law in India, provides a brief introduction to the Information Technology Act 2000, which is the primary legislation governing cyber laws in India.  
-  [![Read Article](https://img.shields.io/badge/Read%20Article-blue?style=for-the-badge)](https://sites.google.com/view/itact2000/it-act-2000)
-  
 ## 🎯 Hobbies:
 - Coding 🖥️
 - Playing Chess ♟️
