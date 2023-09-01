@@ -3,7 +3,7 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sgvkamalakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgvkamalakar)
 [![Twitter](https://img.shields.io/twitter/follow/sgvkamalakar?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/sgvkamalakar)
 [![Instagram](https://img.shields.io/badge/its._.me._.kamalakar-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/its._.me._.kamalakar)
 
