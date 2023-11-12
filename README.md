@@ -22,11 +22,6 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🎯 Hobbies:
-- Coding 🖥️
-- Playing Chess ♟️
-- Article Writing 📝
-- Reading Sci-Fi Stories 📚
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
