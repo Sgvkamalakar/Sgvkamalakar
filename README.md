@@ -1,6 +1,8 @@
 # Hi, I’m Kamalakar! 👋
 I'm a B.Tech final-year CS student at Andhra University College of Engineering, Visakhapatnam.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgvkamalakar&label=Profile%20views&color=0e75b6&style=flat" alt="kamalakar" /> </p>
+
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgvkamalakar)
