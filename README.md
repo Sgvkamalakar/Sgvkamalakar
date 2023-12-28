@@ -23,7 +23,9 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 [![Sgvkamalakar's GitHub | Stats](https://stats.quine.sh/Sgvkamalakar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sgvkamalakar) [![Sgvkamalakar's GitHub | Dependencies](https://stats.quine.sh/Sgvkamalakar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sgvkamalakar)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgvkamalakar&show_icons=true&locale=en&layout=compact"/>
+</div>  
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
