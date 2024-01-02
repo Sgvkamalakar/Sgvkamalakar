@@ -24,6 +24,9 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <p align="center">
   <img src="https://stats.quine.sh/Sgvkamalakar/github?theme=dark" width="400" />
   <img src="https://stats.quine.sh/Sgvkamalakar/dependencies?theme=dark" width="400" />
