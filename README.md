@@ -36,10 +36,7 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgvkamalakar&show_icons=true&locale=en&layout=compact"/>
 </div>  
 
-## 🎵 Spotify Recently Played
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wbzsygsec54cyukg5gw4qnekai&unique={true|1|on|yes}"/>
-</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
