@@ -1,7 +1,6 @@
-# Hi, I’m Kamalakar! 👋
-I'm a B.Tech final-year CS student at Andhra University College of Engineering, Visakhapatnam.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Kamalakar,+a+CS+undergrad+from+Visakhapatnam,+India.;Passionate+about+working+on+GenAI,+LLMs,+and+ML+projects!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/sgvkamalakar)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgvkamalakar&label=Profile%20views&color=0e75b6&style=flat" alt="kamalakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgvkamalakar&label=Profile%20views&color=blue&style=flat" alt="views" /> </p>
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
@@ -23,6 +22,14 @@ I'm a B.Tech final-year CS student at Andhra University College of Engineering, 
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<p align="center">
+  
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sgvkamalakar&theme=vue-dark&background=00000000&hide_border=true">
+</p>
+
+[![Kamalakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgvkamalakar&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/sgvkamalakar/github-readme-activity-graph)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
