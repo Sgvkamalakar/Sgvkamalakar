@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Kamalakar,+a+CS+undergrad+from+Visakhapatnam,+India.;Passionate+about+working+on+GenAI,+LLMs,+and+ML+projects!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/sgvkamalakar)
+ 
+<img src="https://komarev.com/ghpvc/?username=sgvkamalakar&label=Profile%20views&color=blue&style=flat" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgvkamalakar&label=Profile%20views&color=blue&style=flat" alt="views" /> </p>
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
@@ -24,7 +25,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <p align="center">
-  
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sgvkamalakar&theme=vue-dark&background=00000000&hide_border=true">
 </p>
 
@@ -40,7 +40,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgvkamalakar&show_icons=true&locale=en&layout=compact"/>
+  <img src="https://api.githubtrends.io/user/svg/Sgvkamalakar/langs"/>
 </div>  
 
 
