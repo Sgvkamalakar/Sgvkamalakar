@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Kamalakar,+a+CS+undergrad+from+Visakhapatnam,+India.;Passionate+about+working+on+GenAI,+LLMs,+and+ML+projects!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/sgvkamalakar)
- 
 <img src="https://komarev.com/ghpvc/?username=sgvkamalakar&label=Profile%20views&color=blue&style=flat" /> 
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Kamalakar🤓,+a+CS+Undergrad+hailing+from+Visakhapatnam🌊,+India...;Passionate+about+working+on+GenAI,+LLMs,+and+ML+projects....;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/sgvkamalakar)
+ 
 ----
 
 ## 💻 Tech Stack:
@@ -11,7 +12,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js" /></br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask" /></br>
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud,azure,ai,mysql,git,github" /></br>
+    <img src="https://skillicons.dev/icons?i=gcp,azure,ai,mysql,git,github,aws" /></br>
   </a>
 </p>
 
@@ -21,12 +22,16 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sgvkamalakar&theme=vue-dark&background=00000000&hide_border=true">
 </p>
 
+----
+
 [![Kamalakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgvkamalakar&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/sgvkamalakar/github-readme-activity-graph)
 
 
 ----
 
 ![](https://github-profile-trophy.vercel.app/?username=Sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+----
 
 <p align="center">
   <img src="https://stats.quine.sh/Sgvkamalakar/github?theme=dark" width="400" />
@@ -39,7 +44,7 @@
   <img src="https://api.githubtrends.io/user/svg/Sgvkamalakar/langs"/>
 </div>  
 
-----
+-----
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
