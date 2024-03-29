@@ -47,10 +47,18 @@
 -----
 
 ## 🌐 Socials:
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge)](https://sgvkamalakar.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgvkamalakar)
-[![Twitter](https://img.shields.io/twitter/follow/sgvkamalakar?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/sgvkamalakar)
-[![Instagram](https://img.shields.io/badge/its._.me._.kamalakar-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/its._.me._.kamalakar)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://sgvkamalakar.github.io/)
+<p align="left"> 
+<a href="https://linkedin.com/in/sgvkamalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://twitter.com/sgvkamalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@sgvkamalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sgvkamalakar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its._.me._.kamalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sgv_kamalakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sgvkamalakar/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sgvkamalakar03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sgvkamalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="40" /></a>
+<a href="https://discord.gg/kamalakar_satapathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
 
 -----
 <div align="center">
