@@ -48,6 +48,8 @@
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://sgvkamalakar.github.io/)
+[![](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsgv_kamalakar&logo=leetcode&logoColor=yellow)](https://leetcode.com/sgv_kamalakar/)
+
 <p align="left"> 
 <a href="https://linkedin.com/in/sgvkamalakar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://twitter.com/sgvkamalakar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
@@ -59,6 +61,7 @@
 <a href="https://www.hackerrank.com/profile/sgvkamalakar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="40" /></a>
 <a href="https://discord.gg/kamalakar_satapathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
+
 
 -----
 <div align="center">
